@@ -1,0 +1,3 @@
+Model,Dataset,Accuracy,Precision,Recall,F1-score
+DistilBERT_tuned,amazon_electronics (In-domain),0.928,0.9254795102795103,0.928,0.9256583120204603
+DistilBERT_tuned,sephora_skincare (Cross-domain),0.783,0.8161136363636363,0.783,0.7979875348532064

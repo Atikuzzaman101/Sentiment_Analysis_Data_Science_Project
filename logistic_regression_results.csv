@@ -1,0 +1,3 @@
+Model,Dataset,Accuracy,Precision,Recall,F1-score
+Logistic Regression,Amazon Electronics (In-domain),0.751376,0.79854,0.751376,0.771689
+Logistic Regression,Sephora Skincare (Cross-domain),0.737771,0.786223,0.737771,0.758834
