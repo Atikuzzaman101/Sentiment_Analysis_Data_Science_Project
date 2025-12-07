@@ -32,16 +32,16 @@ Data Preprocessing: Cleaning, tokenization, padding, and vectorization (TF-IDF f
 
 Model Training:
 
-	Logistic Regression trained on TF-IDF vectors.
-	BiLSTM trained on padded word sequences.
-	DistilBERT fine-tuned for sequence classification.
+Logistic Regression trained on TF-IDF vectors.
+BiLSTM trained on padded word sequences.
+DistilBERT fine-tuned for sequence classification.
 
 **Evaluation Metrics:**
 
-	Accuracy, 
-	Precision, 
-	Recall, 
-	F1-score.
+Accuracy, 
+Precision, 
+Recall, 
+F1-score.
 
 Cross-domain F1 drop to assess robustness under domain shift.
 
